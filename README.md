@@ -34,8 +34,8 @@
 
 ## 📊 GitHub Stats  
 
-![Rexford's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rexfordapeweh&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rexfordapeweh&layout=compact&theme=radical)
+![Rexford's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ApewehRexford&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ApewehRexford&layout=compact&theme=radical)
 
 ---
 
