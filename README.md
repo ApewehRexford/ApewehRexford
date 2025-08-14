@@ -1,6 +1,6 @@
 <!-- Futuristic Animated Banner -->
-![Futuristic Banner](![Uploading ChatGPT Image Aug 14, 2025, 05_50_28 PM.png…]()
-.imgur.com/Wn0K9QJ.gif)
+![Futuristic Banner](<img width="1536" height="1024" alt="ChatGPT Image Aug 14, 2025, 05_50_28 PM" src="https://github.com/user-attachments/assets/882b8980-5a6e-4271-84d1-53289f20b379" />
+.imgur.com/Wn0K9QJ.gif
 
 # 👋 Hi, I'm Rexford Apeweh  
 
