@@ -9,7 +9,6 @@
 ---
 
 ## 📌 About Me  
-- 🎓 **Computer Science** student at the **University of Ghana**  
 - 🤖 Exploring **Computer Vision**, **Artificial Intelligence**, and **Blockchain**  
 - 🌍 Passionate about future technology & innovation  
 - 💡 Building skills in Python, Web Development, and Problem-Solving  
