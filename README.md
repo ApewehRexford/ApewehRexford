@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&width=700&lines=Hi%2C+I'm+Rexford+Apeweh;CS+Student+%7C+AI+%7C+Computer+Vision+%7C+Blockchain;Futurist+%7C+Learner+%7C+Builder)](https://git.io/typing-svg)
 
 
+
 **First Year CS Student**  
 **COMPUTER VISION, AI & BLOCKCHAIN ENTHUSIAST**  
 **FUTURIST** 🚀  
