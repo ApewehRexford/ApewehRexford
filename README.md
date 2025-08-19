@@ -1,8 +1,10 @@
 <!-- Futuristic Animated Banner -->
 <img width="1536" height="1024" alt="ChatGPT Image Aug 14, 2025, 05_50_28 PM" src="https://github.com/user-attachments/assets/882b8980-5a6e-4271-84d1-53289f20b379" />
+
+<!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&width=700&lines=Hi%2C+I'm+Rexford+Apeweh;CS+Student+%7C+AI+%7C+Computer+Vision+%7C+Blockchain;Futurist+%7C+Learner+%7C+Builder)](https://git.io/typing-svg)
 
-
+---
 
 **First Year CS Student**  
 **COMPUTER VISION, AI & BLOCKCHAIN ENTHUSIAST**  
@@ -43,7 +45,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ApewehRexford)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rexford-apeweh/)
-
 
 ---
 
